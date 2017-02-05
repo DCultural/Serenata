@@ -1,0 +1,13 @@
+body{
+	background-image: url("../src/wallpaper.png");
+	background-size: 100% ;
+	background-color:#f7f7f7;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+      
