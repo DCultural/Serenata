@@ -1,2 +1,0 @@
-# Serenata
-Reserva tu serenata!
